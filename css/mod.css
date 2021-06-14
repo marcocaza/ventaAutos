@@ -1,0 +1,40 @@
+
+.form-section{
+	margin: 0 auto;
+	margin-top: 15%;
+	padding: 0;
+}
+.form-group input{
+	font-size: 18px;
+	border-radius: 15px;
+}
+.form-group{
+	width: 500px;
+}
+.caja{
+	background-color: rgb(25, 25, 37);
+	color: rgb(255, 255, 255);
+	width: 350px;
+
+}
+.ale{
+	color: rgb(210, 6, 8);
+}
+.rep{
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	right: 5px;
+	background-color: rgb(25, 25, 37);
+}
+.letra{
+	font-size: 10px; 
+}
+button{
+	width: 60%;
+	margin: 5px 0 10px;
+}
+label{
+	/*color: rgb(255, 255, 255);*/
+	font-size: 18px;
+}
